@@ -1,4 +1,4 @@
-# ASP.NET Core Web Application with User Authorization
+# ASP.NET Core Web Application with User Authorization and Role Based Access control
 
 This repository contains the source code and documentation for an ASP.NET Core web application with user authorization. The application allows users to manage contacts with different permission levels based on their roles.
 
