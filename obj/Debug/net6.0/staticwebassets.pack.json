@@ -1,0 +1,193 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ContactManager.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ContactManager.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\.DS_Store",
+      "PackagePath": "staticwebassets\\.DS_Store"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\favicon_io.zip",
+      "PackagePath": "staticwebassets\\favicon_io.zip"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\favicon_io\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\favicon_io\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\favicon_io\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\favicon_io\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\favicon_io\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\favicon_io\\apple-touch-icon.png"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\favicon_io\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\favicon_io\\favicon-16x16.png"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\favicon_io\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\favicon_io\\favicon-32x32.png"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\favicon_io\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon_io\\favicon.ico"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\favicon_io\\site.webmanifest",
+      "PackagePath": "staticwebassets\\favicon_io\\site.webmanifest"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\images\\ControlCentre.gif",
+      "PackagePath": "staticwebassets\\images\\ControlCentre.gif"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\images\\contacts.png",
+      "PackagePath": "staticwebassets\\images\\contacts.png"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\images\\image1.jpg",
+      "PackagePath": "staticwebassets\\images\\image1.jpg"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\images\\image2.jpg",
+      "PackagePath": "staticwebassets\\images\\image2.jpg"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\images\\image3.jpg",
+      "PackagePath": "staticwebassets\\images\\image3.jpg"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\images\\image4.jpg",
+      "PackagePath": "staticwebassets\\images\\image4.jpg"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\images\\light.jpeg",
+      "PackagePath": "staticwebassets\\images\\light.jpeg"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\images\\login.gif",
+      "PackagePath": "staticwebassets\\images\\login.gif"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\images\\planeImage.jpg",
+      "PackagePath": "staticwebassets\\images\\planeImage.jpg"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\images\\register.gif",
+      "PackagePath": "staticwebassets\\images\\register.gif"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\images\\register1.jpg",
+      "PackagePath": "staticwebassets\\images\\register1.jpg"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\BDAT SEM 1\\Information Encoding Standards\\Final project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ContactManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ContactManager.props",
+      "PackagePath": "build\\ContactManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ContactManager.props",
+      "PackagePath": "buildMultiTargeting\\ContactManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ContactManager.props",
+      "PackagePath": "buildTransitive\\ContactManager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
